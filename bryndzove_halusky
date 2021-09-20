@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Bryndzove halusky</title>
+    </head>
+
+    <body>
+        <h1>Bryndzové halušky</h1>
+        <img src="img/bryndzove.jpg">
+        <h2>Ingredients</h2>
+         <p>
+        <ul>
+            <li>1200 g zemiaky</li>
+            <li>400 g múka polohrubá</li>
+            <li>podľa potreby múka hrubá</li>
+            <li>podľa potreby soľ</li>
+            <li>500 g bryndza</li>
+            <li>300 g slanina údená</li>
+        </ul>
+        </p>
+        <h2>Steps</h2>
+        <ol>
+            <li>Najprv si vyškvaríme obyčajnú údenú voňavú slaninu, ktorú nakrájame na malé kocky a na suchej panvici bez tuku vytopíme maličké škvarky. Slanina si sama pustí tuku dosť. Tuk je dobré priebežne odoberať stranou do misky, aby sa príliš nepripaľoval. Hotové škvarky vypneme a dáme bokom.</li>
+            <li>Do väčšieho hrnca dáme variť osolenú vodu a kým nám zovrie, pripravíme cesto na halušky. Očistené a umyté zemiaky nastrúhame do misky na najjemnejšom strúhadle. Pridáme trocha soli, polohrubú múku a poriadne premiešame. Veľmi záleží od kvality zemiakov. Ak obsahujú veľa vody a cesto sa nám zdá riedke, zahustíme ho ešte podľa potreby hrubou múkou do požadovanej konzistencie. Malo by byť hustejšie, ale nie až príliš.. Najbezpečnejší spôsob je zahusťovať postupne a vždy jednu malú halušku skúsiť samú uvariť vo vode a ochutnať. Nesmie sa rozpadnúť, musí držať tvar, ale zároveň byť mäkká. Keď sa nám toto podarí, odoberieme z misky kus cesta, a halušky pretláčame cez sitko na halušky do vriacej vody.</li>
+            <li>Premiešame varechou a počkáme, kým vyplávajú na povrch.</li>
+            <li>Teplotu znížime a ešte krátko halušky povaríme.</li>
+            <li>Premiešame a halušky postupne vyberáme.</li>
+            <li>Halušky prekladáme hneď do väčšej, hlbšej nádoby, kde sme rozmrvili čerstvú bryndzu.</li>
+            <li>Všetko spolu premiešame.</li>
+            <li>Takto obvaríme a premiešame s bryndzou všetky halušky.</li>
+            <li>Do hotových pridáme haluškovicu - vodu, v ktorej sa halušky varili, čím sa hotová bryndzová masa stane jemnejšia. Pri servírovaní dáme na tanier bryndzové halušky a polejeme ich slaninkovými škvarkami. Ak nemáte žinčicu, alebo acidko, stačí zapíjať pohárom mlieka.</li>
+        </ol>
+    </body>
+</html>
